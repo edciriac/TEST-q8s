@@ -1,4 +1,6 @@
 {
+  "name": "q8s-studio",
+  "version": "0.0.1",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/edciriac/TEST-q8s.git"
@@ -6,13 +8,12 @@
   "license": "MIT",
   "author": {
     "name": "edciriac",
-    "email": "edciriac@gmail.com",
-    "url": "https://electron-react-boilerplate.js.org"
+    "email": "edciriac@jyu.fi"
   },
   "contributors": [
     {
       "name": "edciriac",
-      "email": "edciriac@gmail.com",
+      "email": "edciriac@jyu.fi",
       "url": "https://github.com/edciriac"
     }
   ],
