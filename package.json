@@ -216,7 +216,8 @@
     "publish": {
       "provider": "github",
       "owner": "edciriac",
-      "repo": "TEST-q8s"
+      "repo": "TEST-q8s",
+      "releaseType": "release"
     }
   },
   "devEngines": {
